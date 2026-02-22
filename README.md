@@ -35,5 +35,5 @@ Sou um grande entusiasta da área de tecnologia, com forte interesse tanto no de
 </div>
 
 <div align="center">
-  <img src="https://preview.redd.it/this-manga-is-so-fucking-peak-v0-x2z1v2r5n70c1.jpeg?width=640&crop=smart&auto=webp&s=118f0f21f1e3502622fa868171795d8e8f286621" width="100%" alt="Yusuke Urameshi Manga Panel" style="border-radius: 10px;">
+  <img src="yu-yu-hakusho-yyh.gif" width="100%" alt="Yusuke">
 </div>
