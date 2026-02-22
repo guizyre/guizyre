@@ -1,16 +1,24 @@
-## Hi there 👋
+<div align="center">
+  <h1>Olá, eu sou o Guilherme! 👋</h1>
+  <h3>Estudante de Engenharia da Computação & Entusiasta Tech</h3>
+</div>
 
-<!--
-**guizyre/guizyre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+### 👨‍💻 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou um grande entusiasta da área de tecnologia e atualmente estudo Engenharia da Computação no IFPB. Meu foco principal de desenvolvimento e pesquisa é no **Backend**, construindo lógicas sólidas e estruturadas.
+
+- ☕ **Linguagem Principal:** Java (com forte base em Programação Orientada a Objetos).
+- 💾 **Dados:** Modelagem e gerenciamento de Banco de Dados Relacionais (MySQL).
+- 🚀 **Objetivo:** Sempre buscando aprender novas arquiteturas e resolver problemas complexos com código limpo e eficiente.
+
+<br>
+
+### 🛠️ Minhas Ferramentas e Tecnologias
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
