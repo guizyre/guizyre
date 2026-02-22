@@ -33,3 +33,6 @@ Sou um grande entusiasta da área de tecnologia, com forte interesse tanto no de
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
+
+
+<div class="tenor-gif-embed" data-postid="18233251199209610837" data-share-method="host" data-aspect-ratio="1.33155" data-width="100%"><a href="https://tenor.com/view/yu-yu-hakusho-yyh-anime-yoshihiro-togashi-yusuke-gif-18233251199209610837">Yu Yu Hakusho Yyh GIF</a>from <a href="https://tenor.com/search/yu+yu+hakusho-gifs">Yu Yu Hakusho GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
