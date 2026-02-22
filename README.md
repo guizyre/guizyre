@@ -1,14 +1,15 @@
 <div align="center">
   <h1>Olá, eu sou o Guilherme!</h1>
-  <h3>Estudante de Engenharia da Computação & Entusiasta Tech</h3>
+  <h3>Estudante de Engenharia da Computação no IFPB & Entusiasta Tech</h3>
 </div>
 
 <br>
 
 ### 👨‍💻 Sobre mim
 
-Sou um grande entusiasta da área de tecnologia e atualmente estudo Engenharia da Computação no IFPB. Meu foco principal de desenvolvimento e pesquisa é no **Backend**, construindo lógicas sólidas e estruturadas.
+Sou um grande entusiasta da área de tecnologia, focado no desenvolvimento **Backend**. Gosto de construir lógicas sólidas e estruturadas, unindo a teoria da engenharia com a prática do código.
 
+- 🎓 **Formação:** Estudante de Engenharia da Computação no **IFPB** (Instituto Federal da Paraíba).
 - ☕ **Linguagem Principal:** Java (com forte base em Programação Orientada a Objetos).
 - 💾 **Dados:** Modelagem e gerenciamento de Banco de Dados Relacionais (MySQL).
 - 🚀 **Objetivo:** Sempre buscando aprender novas arquiteturas e resolver problemas complexos com código limpo e eficiente.
