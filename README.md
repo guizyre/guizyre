@@ -35,5 +35,5 @@ Sou um grande entusiasta da área de tecnologia, com forte interesse tanto no de
 </div>
 
 <div align="center">
-  <img src="yu-yu-hakusho-yyh.gif" width="50%" alt="Yusuke">
+  <img src="yu-yu-hakusho-yyh.gif" width="80%" alt="Yusuke">
 </div>
