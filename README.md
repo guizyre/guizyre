@@ -24,15 +24,11 @@ Busco constantemente otimizar processos computacionais, seja projetando lógicas
   <tr>
     <td align="center" width="33%">
       <h3>⚙️ Baixo Nível & Hardware</h3>
-      <p>Programação em <b>C</b>, arquitetura de microcontroladores (família <b>STM32</b>), implementação de PWM e desenvolvimento de Máquinas de Estado Finito com <b>SystemVerilog</b>.</p>
+      <p>Programação em <b>C</b>, arquitetura de microcontroladores (família <b>STM32</b>), implementação de PWM
     </td>
     <td align="center" width="33%">
       <h3>💻 Software & POO</h3>
       <p>Engenharia de software com <b>Java</b> e <b>Python</b>. Foco em código limpo, herança, polimorfismo, encapsulamento e integração direta com <b>Bancos de Dados SQL</b>.</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>🤖 Robótica & Sistemas</h3>
-      <p>Sistemas operacionais, gerenciamento de concorrência, cálculos de rede (UDP/FTP) e simulação avançada de robótica utilizando <b>ROS 2</b> e <b>Gazebo</b>.</p>
     </td>
   </tr>
 </table>
@@ -77,8 +73,8 @@ Busco constantemente otimizar processos computacionais, seja projetando lógicas
 <table>
   <tr>
     <td width="50%">
-      <b>🔒 Fechadura de Segurança Digital (Hardware/FSM)</b><br>
-      Desenvolvimento de lógicas de decodificação de teclado matricial e verificação de senhas operando em nível de máquina de estados, validando as transições diretamente via hardware.
+      <b>🔒 Projetos com o STM32F407 (Hardware/Microcontroladores)</b><br>
+      Focado no desenvolvimento para microcontroladores STM32. Especialidade em linguagem C e manipulação de interrupções
     </td>
     <td width="50%">
       <b>📦 Sistemas e POO (Java/SQL)</b><br>
