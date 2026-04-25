@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=2000&auto=format&fit=crop&sat=-100" alt="Banner Hardware e Código" width="100%" style="border-radius: 10px;" />
+  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=2000&auto=format&fit=crop&sat=-100" alt="Banner Hardware e Código" width="75%" style="border-radius: 10px;" />
 
   <br><br>
 
@@ -10,24 +10,24 @@
 
 <br>
 
-### 📄 Sobre Mim
+### Sobre Mim
 
-Profissional focado na ponte entre hardware e software, com disciplina técnica e rigor analítico. Minha atuação abrange desde a arquitetura de baixo nível e manipulação direta de memória até o design estruturado de sistemas robustos de alto nível. 
+Profissional focado na ponte entre hardware e software, com disciplina técnica e rigor analítico. Minha atuação abrange desde a arquitetura de baixo nível e manipulação direta de memória até a arquitetura estruturada de sistemas robustos de alto nível. 
 
 Busco constantemente otimizar processos computacionais, seja projetando lógicas em nível de registrador ou desenvolvendo arquiteturas orientadas a objetos.
 
 <br>
 
-### 🛠️ Competências Técnicas
+### Competências Técnicas
 
-<table align="center">
+<table width="100%">
   <tr>
-    <td align="center" width="33%">
-      <h3>⚙️ Baixo Nível & Hardware</h3>
-      <p>Programação em <b>C</b>, arquitetura de microcontroladores (família <b>STM32</b>), implementação de PWM
+    <td align="center" width="50%" valign="top">
+      <h4>Baixo Nível & Hardware</h4>
+      <p>Programação em <b>C</b>, arquitetura de microcontroladores (família <b>STM32</b>), implementação de PWM e desenvolvimento de firmware focado em otimização de recursos.</p>
     </td>
-    <td align="center" width="33%">
-      <h3>💻 Software & POO</h3>
+    <td align="center" width="50%" valign="top">
+      <h4>Software & POO</h4>
       <p>Engenharia de software com <b>Java</b> e <b>Python</b>. Foco em código limpo, herança, polimorfismo, encapsulamento e integração direta com <b>Bancos de Dados SQL</b>.</p>
     </td>
   </tr>
@@ -35,14 +35,13 @@ Busco constantemente otimizar processos computacionais, seja projetando lógicas
 
 <br>
 
-### 🧰 Tech Stack
+### Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/C-4B4B4B?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/Java-4B4B4B?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-4B4B4B?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PostgreSQL-4B4B4B?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/SystemVerilog-4B4B4B?style=for-the-badge&logo=chip&logoColor=white" alt="SystemVerilog" />
   <img src="https://img.shields.io/badge/STM32-333333?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" />
   <img src="https://img.shields.io/badge/ROS_2-333333?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2" />
   <img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
@@ -50,9 +49,7 @@ Busco constantemente otimizar processos computacionais, seja projetando lógicas
 
 <br>
 
-### 📈 Analytics e Produtividade
-
-*Os gráficos abaixo estão configurados com parâmetros hexadecimais específicos (`#333333`, `#888888`, `#CCCCCC`) para forçar o layout monocromático profissional. **Lembre-se de alterar o nome de usuário**.*
+### Analytics e Produtividade
 
 <div align="center">
   <img height="195px" src="https://github-readme-stats.vercel.app/api?username=guizyre&show_icons=true&bg_color=111111&title_color=CCCCCC&text_color=999999&icon_color=777777&border_color=333333&hide_border=false" />
@@ -68,17 +65,17 @@ Busco constantemente otimizar processos computacionais, seja projetando lógicas
 
 <br>
 
-### 🚀 Projetos Arquitetados
+### Projetos Arquitetados
 
-<table>
+<table width="100%">
   <tr>
-    <td width="50%">
-      <b>🔒 Projetos com o STM32F407 (Hardware/Microcontroladores)</b><br>
-      Focado no desenvolvimento para microcontroladores STM32. Especialidade em linguagem C e manipulação de interrupções
+    <td width="50%" valign="top">
+      <b>Projetos com o STM32F407 (Hardware/Microcontroladores)</b><br>
+      Focado no desenvolvimento para microcontroladores STM32. Especialidade em linguagem C, manipulação de interrupções e controle direto de periféricos em baixo nível.
     </td>
-    <td width="50%">
-      <b>📦 Sistemas e POO (Java/SQL)</b><br>
-      Implementação de sistemas estruturados resolvendo problemas de negócio com herança e polimorfismo, atrelados a um modelo de banco de dados relacional sólido e eficiente.
+    <td width="50%" valign="top">
+      <b>Sistemas e POO (Java/SQL)</b><br>
+      Implementação de sistemas estruturados resolvendo problemas lógicos com herança e polimorfismo, atrelados a um modelo de banco de dados relacional sólido e eficiente.
     </td>
   </tr>
 </table>
