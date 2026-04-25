@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=2000&auto=format&fit=crop&sat=-100" alt="Banner Hardware e Código" width="75%" style="border-radius: 10px;" />
+  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=2000&h=400&auto=format&fit=crop&sat=-100" alt="Banner Hardware e Código" width="100%" style="border-radius: 10px;" />
 
   <br><br>
 
@@ -23,11 +23,13 @@ Busco constantemente otimizar processos computacionais, seja projetando lógicas
 <table width="100%">
   <tr>
     <td align="center" width="50%" valign="top">
-      <h4>Baixo Nível & Hardware</h4>
+      <br>
+      <b>Baixo Nível & Hardware</b>
       <p>Programação em <b>C</b>, arquitetura de microcontroladores (família <b>STM32</b>), implementação de PWM e desenvolvimento de firmware focado em otimização de recursos.</p>
     </td>
     <td align="center" width="50%" valign="top">
-      <h4>Software & POO</h4>
+      <br>
+      <b>Software & POO</b>
       <p>Engenharia de software com <b>Java</b> e <b>Python</b>. Foco em código limpo, herança, polimorfismo, encapsulamento e integração direta com <b>Bancos de Dados SQL</b>.</p>
     </td>
   </tr>
@@ -70,12 +72,14 @@ Busco constantemente otimizar processos computacionais, seja projetando lógicas
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <b>Projetos com o STM32F407 (Hardware/Microcontroladores)</b><br>
-      Focado no desenvolvimento para microcontroladores STM32. Especialidade em linguagem C, manipulação de interrupções e controle direto de periféricos em baixo nível.
+      <br>
+      <b>Projetos com o STM32F407 (Hardware/Microcontroladores)</b>
+      <p>Focado no desenvolvimento para microcontroladores STM32. Especialidade em linguagem C, manipulação de interrupções e controle direto de periféricos em baixo nível.</p>
     </td>
     <td width="50%" valign="top">
-      <b>Sistemas e POO (Java/SQL)</b><br>
-      Implementação de sistemas estruturados resolvendo problemas lógicos com herança e polimorfismo, atrelados a um modelo de banco de dados relacional sólido e eficiente.
+      <br>
+      <b>Sistemas e POO (Java/SQL)</b>
+      <p>Implementação de sistemas estruturados resolvendo problemas lógicos com herança e polimorfismo, atrelados a um modelo de banco de dados relacional sólido e eficiente.</p>
     </td>
   </tr>
 </table>
