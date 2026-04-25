@@ -21,12 +21,12 @@ Busco constantemente otimizar processos computacionais, seja projetando lógicas
 
 <table width="100%">
   <tr>
-    <td align="center" width="50%" valign="top">
+    <td align="center" width="40%" valign="top">
       <br>
       <b>Baixo Nível & Hardware</b>
       <p>Programação em <b>C</b>, arquitetura de microcontroladores (família <b>STM32</b>), implementação de PWM e desenvolvimento de firmware focado em otimização de recursos.</p>
     </td>
-    <td align="center" width="50%" valign="top">
+    <td align="center" width="40%" valign="top">
       <br>
       <b>Software & POO</b>
       <p>Engenharia de software com <b>Java</b> e <b>Python</b>. Foco em código limpo, herança, polimorfismo, encapsulamento e integração direta com <b>Bancos de Dados SQL</b>.</p>
