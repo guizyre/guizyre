@@ -15,7 +15,6 @@
 Profissional focado na ponte entre hardware e software, com disciplina técnica e rigor analítico. Minha atuação abrange desde a arquitetura de baixo nível e manipulação direta de memória até a arquitetura estruturada de sistemas robustos de alto nível. 
 
 Busco constantemente otimizar processos computacionais, seja projetando lógicas em nível de registrador ou desenvolvendo arquiteturas orientadas a objetos.
-
 <br>
 
 ### Competências Técnicas
