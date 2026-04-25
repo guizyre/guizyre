@@ -1,65 +1,99 @@
-# Olá, eu sou Guilherme Gonçalves 👨‍💻
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=2000&auto=format&fit=crop&sat=-100" alt="Banner Hardware e Código" width="100%" style="border-radius: 10px;" />
 
-**Estudante de Engenharia de Computação | Secretário do Ramo Estudantil IEEE | Desenvolvedor de Sistemas e Hardware**
+  <br><br>
 
-Sou apaixonado pela interseção entre hardware e software. Minha trajetória técnica é focada no desenvolvimento de sistemas eficientes e escaláveis, transitando desde a arquitetura de hardware e microcontroladores no baixo nível até a modelagem estruturada com Programação Orientada a Objetos e manipulação de Banco de Dados.
+  <h1>Guilherme Gonçalves</h1>
+  
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=9CA3AF&center=true&vCenter=true&width=800&lines=Engenharia+de+Computação+-+IFPB;Desenvolvimento+Orientado+a+Objetos;Sistemas+Embarcados+%26+Microcontroladores;Secretário+do+Ramo+Estudantil+IEEE" alt="Typing SVG" />
+</div>
 
-Tenho experiência prática no desenvolvimento de lógicas complexas de controle, simulação de robótica e gestão de projetos acadêmicos e técnicos, sempre buscando aliar rigor analítico a soluções criativas.
+<br>
 
----
+### 📄 Sobre Mim
 
-### ⚙️ Áreas de Foco & Especialidades
+Profissional focado na ponte entre hardware e software, com disciplina técnica e rigor analítico. Minha atuação abrange desde a arquitetura de baixo nível e manipulação direta de memória até o design estruturado de sistemas robustos de alto nível. 
 
-* **Sistemas Embarcados & Baixo Nível:** Desenvolvimento para famílias de microcontroladores (como STM32), programação em **C**, e design de hardware com **SystemVerilog** (Máquinas de Estado Finito).
-* **Engenharia de Software & POO:** Arquitetura de sistemas e implementação de soluções escaláveis em **Java**, aplicando conceitos sólidos de herança, polimorfismo e encapsulamento.
-* **Dados & Automação:** Análise, manipulação e estruturação de dados utilizando **Python** e **SQL**.
-* **Robótica & Simulação:** Modelagem e controle utilizando **ROS 2** e **Gazebo**.
+Busco constantemente otimizar processos computacionais, seja projetando lógicas em nível de registrador ou desenvolvendo arquiteturas orientadas a objetos.
 
----
+<br>
 
-### 🛠️ Tech Stack
+### 🛠️ Competências Técnicas
 
-<div align="left">
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h3>⚙️ Baixo Nível & Hardware</h3>
+      <p>Programação em <b>C</b>, arquitetura de microcontroladores (família <b>STM32</b>), implementação de PWM e desenvolvimento de Máquinas de Estado Finito com <b>SystemVerilog</b>.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>💻 Software & POO</h3>
+      <p>Engenharia de software com <b>Java</b> e <b>Python</b>. Foco em código limpo, herança, polimorfismo, encapsulamento e integração direta com <b>Bancos de Dados SQL</b>.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🤖 Robótica & Sistemas</h3>
+      <p>Sistemas operacionais, gerenciamento de concorrência, cálculos de rede (UDP/FTP) e simulação avançada de robótica utilizando <b>ROS 2</b> e <b>Gazebo</b>.</p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+### 🧰 Tech Stack
+
+<div align="center">
   <img src="https://img.shields.io/badge/C-4B4B4B?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/Java-4B4B4B?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-4B4B4B?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4B4B4B?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4B4B4B?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/SystemVerilog-4B4B4B?style=for-the-badge&logo=chip&logoColor=white" alt="SystemVerilog" />
-  <br>
-  <img src="https://img.shields.io/badge/STM32-5C5C5C?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" />
-  <img src="https://img.shields.io/badge/ROS_2-5C5C5C?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2" />
-  <img src="https://img.shields.io/badge/Git-5C5C5C?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-5C5C5C?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/STM32-333333?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" />
+  <img src="https://img.shields.io/badge/ROS_2-333333?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2" />
+  <img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
 </div>
 
----
+<br>
 
-### 📊 Estatísticas e Linguagens Mais Utilizadas
+### 📈 Analytics e Produtividade
 
-*Os gráficos abaixo refletem a atividade de código em tempo real, renderizados em um tema técnico e sóbrio.*
+*Os gráficos abaixo estão configurados com parâmetros hexadecimais específicos (`#333333`, `#888888`, `#CCCCCC`) para forçar o layout monocromático profissional. **Lembre-se de alterar o nome de usuário**.*
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&hide_border=true&bg_color=1A1B27&title_color=FFFFFF&text_color=A9B1D6&icon_color=8C8C8C" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&hide_border=true&bg_color=1A1B27&title_color=FFFFFF&text_color=A9B1D6" alt="Linguagens mais utilizadas" />
+  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=guizyre&show_icons=true&bg_color=111111&title_color=CCCCCC&text_color=999999&icon_color=777777&border_color=333333&hide_border=false" />
+  
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guizyre&layout=compact&bg_color=111111&title_color=CCCCCC&text_color=999999&border_color=333333&hide_border=false" />
 </div>
 
----
+<br>
 
-### 🚀 Projetos em Destaque
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guizyre&theme=transparent&background=111111&border=333333&stroke=777777&ring=555555&fire=888888&currStreakNum=CCCCCC&sideNums=CCCCCC&currStreakLabel=999999&sideLabels=999999&dates=999999" alt="GitHub Streak" />
+</div>
 
-* **Fechadura de Segurança Digital:** Projeto focado em Design de Sistemas Digitais, implementando lógica de Máquina de Estados Finito (FSM) para decodificação de teclado e verificação de senhas em nível de hardware.
-* **Modelagem de Robótica Avançada:** Criação e simulação de modelos de robôs utilizando frameworks da indústria como ROS 2 e ambientes como Gazebo.
-* **Sistemas de Gerenciamento (POO):** Aplicações desenvolvidas em Java com forte integração de banco de dados (SQL), focadas na estruturação limpa do código e arquitetura de software orientada a objetos.
+<br>
 
----
+### 🚀 Projetos Arquitetados
 
-### 🤝 Conecte-se comigo
+<table>
+  <tr>
+    <td width="50%">
+      <b>🔒 Fechadura de Segurança Digital (Hardware/FSM)</b><br>
+      Desenvolvimento de lógicas de decodificação de teclado matricial e verificação de senhas operando em nível de máquina de estados, validando as transições diretamente via hardware.
+    </td>
+    <td width="50%">
+      <b>📦 Sistemas e POO (Java/SQL)</b><br>
+      Implementação de sistemas estruturados resolvendo problemas de negócio com herança e polimorfismo, atrelados a um modelo de banco de dados relacional sólido e eficiente.
+    </td>
+  </tr>
+</table>
 
-Estou sempre aberto a discutir sobre arquitetura de computadores, novos projetos em C/Java, ou oportunidades na área de segurança cibernética e sistemas embarcados.
+<br>
 
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="SEU_PORTFOLIO_OU_OUTRO_LINK_AQUI" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" />
-</a>
+<div align="center">
+  <i>"A disciplina é a ponte entre metas e realizações."</i>
+  <br><br>
+  
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white&border=333333" alt="LinkedIn" />
+  </a>
+</div>
