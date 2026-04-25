@@ -90,7 +90,7 @@ Busco constantemente otimizar processos computacionais, seja projetando lógicas
   <i>"A disciplina é a ponte entre metas e realizações."</i>
   <br><br>
   
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/guilhermegonçalvessilva" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white&border=333333" alt="LinkedIn" />
   </a>
 </div>
